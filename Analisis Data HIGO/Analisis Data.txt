@@ -1,0 +1,15 @@
+Analisis Data 
+1. Top 9 Nama Tempat dengan pengguna terbanyak
+2. Jumlah pengguna berdasarkan hari
+3. Jumlah pengguna berdasarkan jenis kelamin
+4. Jumlah pengguna berdasarkan kelompok usia
+5. Jumlah pengguna berdasarkan provider seluler
+6. Jumlah pengguna berdasarkan merk hp 
+7. Jumlah pengguna berdasarkan Digital Interest
+8. Jumlah pengguna berdasarkan location type
+9. Analisis durasi pengguna dalam menggunakan Wifi HIGO
+10. Analisis interval jam dengan pengguna terbanyak berdasarkan hari
+11. Analisis digital interest berdasarkan rata-rata durasi
+12. Analisis jenis lokasi berdasarkan rata-rata durasi
+13. Analisis kelompok usia pada setiap Digital Interest
+14. Jumlah pengguna berdasarkan jenis kelamin pada setiap digital interest

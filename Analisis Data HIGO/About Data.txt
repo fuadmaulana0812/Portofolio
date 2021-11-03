@@ -1,0 +1,14 @@
+Variabel Data :
+- Nama Lokasi		=> Nama lokasi Free Wifi HIGOspot yang dikunjungi pengguna
+- Hari			=> Hari ketika pengguna menggunakan Wifi HIGOspot
+- Jam Login		=> Waktu pengguna melakukan login di Wifi HIGOspot
+- Nama			=> Nama pengguna
+- Jenis Kelamin		=> Jenis kelamin pengguna
+- Email			=> Email pengguna
+- No Telp		=> Nomor telepon pengguna
+- Provider Seluler	=> Provider seluler yang digunakan pengguna
+- Tahun Lahir		=> Tahun kelahiran pengguna
+- Merek HP		=> Merek HP yang digunakan pengguna
+- Digital Interest	=> Ketertarikan pengguna dalam menggunakan Wifi HIGOspot
+- Location Type		=> Jenis lokasi Free Wifi HIGOspot yang dikunjungi pengguna
+- Durasi		=> Durasi pengguna menggunakan Wifi HIGOspot
